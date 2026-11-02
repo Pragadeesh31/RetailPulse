@@ -51,7 +51,7 @@ Analytics
 ## Development Progress
 
 - [x] Day 1: Project initialization
-- [ ] Day 2: Dataset exploration
+- [x] Day 2: Dataset exploration
 - [ ] Day 3: Data profiling
 - [ ] Day 4: Data formats
 - [ ] Day 5: PostgreSQL setup
@@ -62,4 +62,4 @@ Under active development.
 
 ## Author
 
-Your Name
+Pragadeesh A
